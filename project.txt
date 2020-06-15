@@ -3,3 +3,8 @@
 
 Project kick off in class
 Some initial data analysis to see how inflamation changes over time.
+
+List of collaborators:
+Anne Hardcastle: Researcher
+Peter Smith: Data Analyst
+
