@@ -1,0 +1,5 @@
+#Author Barbara Wright
+#Date 15 June 20202
+
+Project kick off in class
+Some initial data analysis to see how inflamation changes over time.
