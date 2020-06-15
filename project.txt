@@ -8,5 +8,5 @@ List of collaborators:
 Anne Hardcastle: Researcher
 Peter Smith: Data Analyst
 Elizabeth Hall : Researcher joined 12 Jun 2020
-
+David Jessop : Operator Joined 15 Jun 2020
 We need to make sure that all our Researchers are added to the notes.
